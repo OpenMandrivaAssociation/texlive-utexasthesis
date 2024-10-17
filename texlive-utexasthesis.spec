@@ -3,7 +3,7 @@ Version:	48648
 Release:	2
 Summary:	University of Texas at Austin graduate thesis style
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/utexasthesis
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/utexasthesis
 License:	cc0
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/utexasthesis.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/utexasthesis.doc.r%{version}.tar.xz
